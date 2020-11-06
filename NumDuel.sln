@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumDuel", "NumDuel\NumDuel.csproj", "{04B50FE6-E9C2-4691-AB7C-80EFD9295A8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04B50FE6-E9C2-4691-AB7C-80EFD9295A8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04B50FE6-E9C2-4691-AB7C-80EFD9295A8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04B50FE6-E9C2-4691-AB7C-80EFD9295A8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04B50FE6-E9C2-4691-AB7C-80EFD9295A8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3182F927-3403-4345-A0C9-7C46D07DD650}
+	EndGlobalSection
+EndGlobal
